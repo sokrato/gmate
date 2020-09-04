@@ -1,0 +1,2 @@
+#!/bin/bash
+rlwrap java -cp "`cat .cp/main`:$CLOJAR" clojure.main
