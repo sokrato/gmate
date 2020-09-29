@@ -9,5 +9,6 @@ package io.github.sokrato.gradle.plugin;
 public class GitManifestPluginExtension {
     public String revisionKey = "Git-Revision";
     public String remoteKey = "Git-Remote";
+    public String branchKey = "Git-Branch";
     public String useRemote = "origin";
 }

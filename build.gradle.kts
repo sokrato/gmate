@@ -1,5 +1,5 @@
 group = "io.github.sokrato"
-version = "0.1.3-SNAPSHOT"
+version = "0.1.3"
 
 plugins {
     `java-gradle-plugin`
