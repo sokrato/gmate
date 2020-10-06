@@ -20,7 +20,7 @@ java {
 }
 
 dependencies {
-    implementation(platform("io.github.sokrato:bom:0.1.0-SNAPSHOT"))
+    implementation(platform("io.github.sokrato:bom:0.1.1"))
     testImplementation("org.testng:testng")
 }
 
